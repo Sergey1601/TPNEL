@@ -1,0 +1,15 @@
+C:\Users\MYCOMP\source\repos\calc.itog\calc.itog\bin\Debug\net6.0\calc.itog.exe
+C:\Users\MYCOMP\source\repos\calc.itog\calc.itog\bin\Debug\net6.0\calc.itog.deps.json
+C:\Users\MYCOMP\source\repos\calc.itog\calc.itog\bin\Debug\net6.0\calc.itog.runtimeconfig.json
+C:\Users\MYCOMP\source\repos\calc.itog\calc.itog\bin\Debug\net6.0\calc.itog.dll
+C:\Users\MYCOMP\source\repos\calc.itog\calc.itog\bin\Debug\net6.0\calc.itog.pdb
+C:\Users\MYCOMP\source\repos\calc.itog\calc.itog\obj\Debug\net6.0\calc.itog.csproj.AssemblyReference.cache
+C:\Users\MYCOMP\source\repos\calc.itog\calc.itog\obj\Debug\net6.0\calc.itog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MYCOMP\source\repos\calc.itog\calc.itog\obj\Debug\net6.0\calc.itog.AssemblyInfoInputs.cache
+C:\Users\MYCOMP\source\repos\calc.itog\calc.itog\obj\Debug\net6.0\calc.itog.AssemblyInfo.cs
+C:\Users\MYCOMP\source\repos\calc.itog\calc.itog\obj\Debug\net6.0\calc.itog.csproj.CoreCompileInputs.cache
+C:\Users\MYCOMP\source\repos\calc.itog\calc.itog\obj\Debug\net6.0\calc.itog.dll
+C:\Users\MYCOMP\source\repos\calc.itog\calc.itog\obj\Debug\net6.0\refint\calc.itog.dll
+C:\Users\MYCOMP\source\repos\calc.itog\calc.itog\obj\Debug\net6.0\calc.itog.pdb
+C:\Users\MYCOMP\source\repos\calc.itog\calc.itog\obj\Debug\net6.0\calc.itog.genruntimeconfig.cache
+C:\Users\MYCOMP\source\repos\calc.itog\calc.itog\obj\Debug\net6.0\ref\calc.itog.dll
