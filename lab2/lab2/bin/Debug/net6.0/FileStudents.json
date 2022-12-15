@@ -1,0 +1,57 @@
+[
+  {
+    "Id": 100,
+    "Name": "Vadim Korneev",
+    "Group": 135,
+    "BirthYear": 2004,
+    "Subject": {
+      "Subject": "Mathematics",
+      "Teather": "Thsiporkova K.A.",
+      "Mark": 4
+    }
+  },
+  {
+    "Id": 101,
+    "Name": "Nikita Sacharov",
+    "Group": 135,
+    "BirthYear": 2003,
+    "Subject": {
+      "Subject": "Mathematics",
+      "Teather": "Thsiporkova K.A.",
+      "Mark": 5
+    }
+  },
+  {
+    "Id": 102,
+    "Name": "Ivan Koltsov",
+    "Group": 135,
+    "BirthYear": 2003,
+    "Subject": {
+      "Subject": "History",
+      "Teather": "Boyarchenkov V.V",
+      "Mark": 4
+    }
+  },
+  {
+    "Id": 103,
+    "Name": "Sergey Shandala",
+    "Group": 135,
+    "BirthYear": 2003,
+    "Subject": {
+      "Subject": "Physics",
+      "Teather": "Inyakov V.V",
+      "Mark": 5
+    }
+  },
+  {
+    "Id": 104,
+    "Name": "Vladimir Zhiltsov",
+    "Group": 135,
+    "BirthYear": 2003,
+    "Subject": {
+      "Subject": "TIPS",
+      "Teather": "Miheev A.A.",
+      "Mark": 3
+    }
+  }
+]

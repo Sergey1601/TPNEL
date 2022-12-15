@@ -1,0 +1,52 @@
+[
+  {
+    "Name": "Pepperoni",
+    "Category": "pizza",
+    "Price": 550,
+    "Id": {
+      "Id": 1,
+      "Number": 1,
+      "Quantity": 2
+    }
+  },
+  {
+    "Name": "Sirnaya",
+    "Category": "pizza",
+    "Price": 500,
+    "Id": {
+      "Id": 2,
+      "Number": 2,
+      "Quantity": 1
+    }
+  },
+  {
+    "Name": "Myasnaya",
+    "Category": "pizza",
+    "Price": 600,
+    "Id": {
+      "Id": 3,
+      "Number": 3,
+      "Quantity": 3
+    }
+  },
+  {
+    "Name": "Potato",
+    "Category": "snack",
+    "Price": 150,
+    "Id": {
+      "Id": 6,
+      "Number": 6,
+      "Quantity": 2
+    }
+  },
+  {
+    "Name": "Limonad",
+    "Category": "drink",
+    "Price": 100,
+    "Id": {
+      "Id": 9,
+      "Number": 7,
+      "Quantity": 3
+    }
+  }
+]
