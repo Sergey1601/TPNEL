@@ -1,0 +1,195 @@
+C:\Users\bmaxi\Desktop\WebApp\WebApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\bmaxi\Desktop\WebApp\WebApp\bin\Debug\net6.0\appsettings.json
+C:\Users\bmaxi\Desktop\WebApp\WebApp\bin\Debug\net6.0\WebApp.exe
+C:\Users\bmaxi\Desktop\WebApp\WebApp\bin\Debug\net6.0\WebApp.deps.json
+C:\Users\bmaxi\Desktop\WebApp\WebApp\bin\Debug\net6.0\WebApp.runtimeconfig.json
+C:\Users\bmaxi\Desktop\WebApp\WebApp\bin\Debug\net6.0\WebApp.dll
+C:\Users\bmaxi\Desktop\WebApp\WebApp\bin\Debug\net6.0\WebApp.pdb
+C:\Users\bmaxi\Desktop\WebApp\WebApp\bin\Debug\net6.0\Humanizer.dll
+C:\Users\bmaxi\Desktop\WebApp\WebApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\bmaxi\Desktop\WebApp\WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\bmaxi\Desktop\WebApp\WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bmaxi\Desktop\WebApp\WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\bmaxi\Desktop\WebApp\WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bmaxi\Desktop\WebApp\WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\bmaxi\Desktop\WebApp\WebApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\bmaxi\Desktop\WebApp\WebApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\bmaxi\Desktop\WebApp\WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bmaxi\Desktop\WebApp\WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\bmaxi\Desktop\WebApp\WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bmaxi\Desktop\WebApp\WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bmaxi\Desktop\WebApp\WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bmaxi\Desktop\WebApp\WebApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\bmaxi\Desktop\WebApp\WebApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bmaxi\Desktop\WebApp\WebApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\bmaxi\Desktop\WebApp\WebApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\bmaxi\Desktop\WebApp\WebApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\bmaxi\Desktop\WebApp\WebApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\bmaxi\Desktop\WebApp\WebApp\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\bmaxi\Desktop\WebApp\WebApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bmaxi\Desktop\WebApp\WebApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\bmaxi\Desktop\WebApp\WebApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bmaxi\Desktop\WebApp\WebApp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\bmaxi\Desktop\WebApp\WebApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\bmaxi\Desktop\WebApp\WebApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\bmaxi\Desktop\WebApp\WebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\bmaxi\Desktop\WebApp\WebApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bmaxi\Desktop\WebApp\WebApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bmaxi\Desktop\WebApp\WebApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bmaxi\Desktop\WebApp\WebApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bmaxi\Desktop\WebApp\WebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bmaxi\Desktop\WebApp\WebApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\bmaxi\Desktop\WebApp\WebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\bmaxi\Desktop\WebApp\WebApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\bmaxi\Desktop\WebApp\WebApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bmaxi\Desktop\WebApp\WebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\bmaxi\Desktop\WebApp\WebApp\obj\Debug\net6.0\WebApp.csproj.AssemblyReference.cache
+C:\Users\bmaxi\Desktop\WebApp\WebApp\obj\Debug\net6.0\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bmaxi\Desktop\WebApp\WebApp\obj\Debug\net6.0\WebApp.AssemblyInfoInputs.cache
+C:\Users\bmaxi\Desktop\WebApp\WebApp\obj\Debug\net6.0\WebApp.AssemblyInfo.cs
+C:\Users\bmaxi\Desktop\WebApp\WebApp\obj\Debug\net6.0\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\bmaxi\Desktop\WebApp\WebApp\obj\Debug\net6.0\WebApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\bmaxi\Desktop\WebApp\WebApp\obj\Debug\net6.0\WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bmaxi\Desktop\WebApp\WebApp\obj\Debug\net6.0\staticwebassets\msbuild.WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\bmaxi\Desktop\WebApp\WebApp\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApp.props
+C:\Users\bmaxi\Desktop\WebApp\WebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApp.props
+C:\Users\bmaxi\Desktop\WebApp\WebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApp.props
+C:\Users\bmaxi\Desktop\WebApp\WebApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\bmaxi\Desktop\WebApp\WebApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\bmaxi\Desktop\WebApp\WebApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\bmaxi\Desktop\WebApp\WebApp\obj\Debug\net6.0\scopedcss\bundle\WebApp.styles.css
+C:\Users\bmaxi\Desktop\WebApp\WebApp\obj\Debug\net6.0\WebApp.csproj.CopyComplete
+C:\Users\bmaxi\Desktop\WebApp\WebApp\obj\Debug\net6.0\WebApp.dll
+C:\Users\bmaxi\Desktop\WebApp\WebApp\obj\Debug\net6.0\refint\WebApp.dll
+C:\Users\bmaxi\Desktop\WebApp\WebApp\obj\Debug\net6.0\WebApp.pdb
+C:\Users\bmaxi\Desktop\WebApp\WebApp\obj\Debug\net6.0\WebApp.genruntimeconfig.cache
+C:\Users\bmaxi\Desktop\WebApp\WebApp\obj\Debug\net6.0\ref\WebApp.dll
+D:\2 курс\3 семестр\Технология программирования\WebApp\WebApp\obj\Debug\net6.0\WebApp.dll
+D:\2 курс\3 семестр\Технология программирования\WebApp\WebApp\obj\Debug\net6.0\refint\WebApp.dll
+D:\2 курс\3 семестр\Технология программирования\WebApp\WebApp\obj\Debug\net6.0\WebApp.pdb
+C:\Users\bmaxi\OneDrive\Рабочий стол\WebApp\WebApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\bmaxi\OneDrive\Рабочий стол\WebApp\WebApp\bin\Debug\net6.0\appsettings.json
+C:\Users\bmaxi\OneDrive\Рабочий стол\WebApp\WebApp\bin\Debug\net6.0\WebApp.exe
+C:\Users\bmaxi\OneDrive\Рабочий стол\WebApp\WebApp\bin\Debug\net6.0\WebApp.deps.json
+C:\Users\bmaxi\OneDrive\Рабочий стол\WebApp\WebApp\bin\Debug\net6.0\WebApp.runtimeconfig.json
+C:\Users\bmaxi\OneDrive\Рабочий стол\WebApp\WebApp\bin\Debug\net6.0\WebApp.dll
+C:\Users\bmaxi\OneDrive\Рабочий стол\WebApp\WebApp\bin\Debug\net6.0\WebApp.pdb
+C:\Users\bmaxi\OneDrive\Рабочий стол\WebApp\WebApp\bin\Debug\net6.0\Humanizer.dll
+C:\Users\bmaxi\OneDrive\Рабочий стол\WebApp\WebApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\bmaxi\OneDrive\Рабочий стол\WebApp\WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\bmaxi\OneDrive\Рабочий стол\WebApp\WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bmaxi\OneDrive\Рабочий стол\WebApp\WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\bmaxi\OneDrive\Рабочий стол\WebApp\WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bmaxi\OneDrive\Рабочий стол\WebApp\WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\bmaxi\OneDrive\Рабочий стол\WebApp\WebApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\bmaxi\OneDrive\Рабочий стол\WebApp\WebApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\bmaxi\OneDrive\Рабочий стол\WebApp\WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bmaxi\OneDrive\Рабочий стол\WebApp\WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\bmaxi\OneDrive\Рабочий стол\WebApp\WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bmaxi\OneDrive\Рабочий стол\WebApp\WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bmaxi\OneDrive\Рабочий стол\WebApp\WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bmaxi\OneDrive\Рабочий стол\WebApp\WebApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\bmaxi\OneDrive\Рабочий стол\WebApp\WebApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bmaxi\OneDrive\Рабочий стол\WebApp\WebApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\bmaxi\OneDrive\Рабочий стол\WebApp\WebApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\bmaxi\OneDrive\Рабочий стол\WebApp\WebApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\bmaxi\OneDrive\Рабочий стол\WebApp\WebApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\bmaxi\OneDrive\Рабочий стол\WebApp\WebApp\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\bmaxi\OneDrive\Рабочий стол\WebApp\WebApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bmaxi\OneDrive\Рабочий стол\WebApp\WebApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\bmaxi\OneDrive\Рабочий стол\WebApp\WebApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bmaxi\OneDrive\Рабочий стол\WebApp\WebApp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\bmaxi\OneDrive\Рабочий стол\WebApp\WebApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\bmaxi\OneDrive\Рабочий стол\WebApp\WebApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\bmaxi\OneDrive\Рабочий стол\WebApp\WebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\bmaxi\OneDrive\Рабочий стол\WebApp\WebApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bmaxi\OneDrive\Рабочий стол\WebApp\WebApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bmaxi\OneDrive\Рабочий стол\WebApp\WebApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bmaxi\OneDrive\Рабочий стол\WebApp\WebApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bmaxi\OneDrive\Рабочий стол\WebApp\WebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bmaxi\OneDrive\Рабочий стол\WebApp\WebApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\bmaxi\OneDrive\Рабочий стол\WebApp\WebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\bmaxi\OneDrive\Рабочий стол\WebApp\WebApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\bmaxi\OneDrive\Рабочий стол\WebApp\WebApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bmaxi\OneDrive\Рабочий стол\WebApp\WebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\bmaxi\OneDrive\Рабочий стол\WebApp\WebApp\obj\Debug\net6.0\WebApp.csproj.AssemblyReference.cache
+C:\Users\bmaxi\OneDrive\Рабочий стол\WebApp\WebApp\obj\Debug\net6.0\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bmaxi\OneDrive\Рабочий стол\WebApp\WebApp\obj\Debug\net6.0\WebApp.AssemblyInfoInputs.cache
+C:\Users\bmaxi\OneDrive\Рабочий стол\WebApp\WebApp\obj\Debug\net6.0\WebApp.AssemblyInfo.cs
+C:\Users\bmaxi\OneDrive\Рабочий стол\WebApp\WebApp\obj\Debug\net6.0\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\bmaxi\OneDrive\Рабочий стол\WebApp\WebApp\obj\Debug\net6.0\WebApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\bmaxi\OneDrive\Рабочий стол\WebApp\WebApp\obj\Debug\net6.0\WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bmaxi\OneDrive\Рабочий стол\WebApp\WebApp\obj\Debug\net6.0\staticwebassets\msbuild.WebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\bmaxi\OneDrive\Рабочий стол\WebApp\WebApp\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApp.props
+C:\Users\bmaxi\OneDrive\Рабочий стол\WebApp\WebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApp.props
+C:\Users\bmaxi\OneDrive\Рабочий стол\WebApp\WebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApp.props
+C:\Users\bmaxi\OneDrive\Рабочий стол\WebApp\WebApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\bmaxi\OneDrive\Рабочий стол\WebApp\WebApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\bmaxi\OneDrive\Рабочий стол\WebApp\WebApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\bmaxi\OneDrive\Рабочий стол\WebApp\WebApp\obj\Debug\net6.0\scopedcss\bundle\WebApp.styles.css
+C:\Users\bmaxi\OneDrive\Рабочий стол\WebApp\WebApp\obj\Debug\net6.0\WebApp.csproj.CopyComplete
+C:\Users\bmaxi\OneDrive\Рабочий стол\WebApp\WebApp\obj\Debug\net6.0\WebApp.dll
+C:\Users\bmaxi\OneDrive\Рабочий стол\WebApp\WebApp\obj\Debug\net6.0\refint\WebApp.dll
+C:\Users\bmaxi\OneDrive\Рабочий стол\WebApp\WebApp\obj\Debug\net6.0\WebApp.pdb
+C:\Users\bmaxi\OneDrive\Рабочий стол\WebApp\WebApp\obj\Debug\net6.0\WebApp.genruntimeconfig.cache
+C:\Users\bmaxi\OneDrive\Рабочий стол\WebApp\WebApp\obj\Debug\net6.0\ref\WebApp.dll
+C:\Users\MYCOMP\source\repos\WebApp\WebApp\bin\Debug\net6.0\appsettings.json
+C:\Users\MYCOMP\source\repos\WebApp\WebApp\bin\Debug\net6.0\WebApp.exe
+C:\Users\MYCOMP\source\repos\WebApp\WebApp\bin\Debug\net6.0\WebApp.deps.json
+C:\Users\MYCOMP\source\repos\WebApp\WebApp\bin\Debug\net6.0\WebApp.runtimeconfig.json
+C:\Users\MYCOMP\source\repos\WebApp\WebApp\bin\Debug\net6.0\WebApp.dll
+C:\Users\MYCOMP\source\repos\WebApp\WebApp\bin\Debug\net6.0\WebApp.pdb
+C:\Users\MYCOMP\source\repos\WebApp\WebApp\bin\Debug\net6.0\Humanizer.dll
+C:\Users\MYCOMP\source\repos\WebApp\WebApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\MYCOMP\source\repos\WebApp\WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\MYCOMP\source\repos\WebApp\WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MYCOMP\source\repos\WebApp\WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\MYCOMP\source\repos\WebApp\WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\MYCOMP\source\repos\WebApp\WebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\MYCOMP\source\repos\WebApp\WebApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\MYCOMP\source\repos\WebApp\WebApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\MYCOMP\source\repos\WebApp\WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MYCOMP\source\repos\WebApp\WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\MYCOMP\source\repos\WebApp\WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MYCOMP\source\repos\WebApp\WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MYCOMP\source\repos\WebApp\WebApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MYCOMP\source\repos\WebApp\WebApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\MYCOMP\source\repos\WebApp\WebApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\MYCOMP\source\repos\WebApp\WebApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\MYCOMP\source\repos\WebApp\WebApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\MYCOMP\source\repos\WebApp\WebApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\MYCOMP\source\repos\WebApp\WebApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\MYCOMP\source\repos\WebApp\WebApp\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\MYCOMP\source\repos\WebApp\WebApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MYCOMP\source\repos\WebApp\WebApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\MYCOMP\source\repos\WebApp\WebApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MYCOMP\source\repos\WebApp\WebApp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\MYCOMP\source\repos\WebApp\WebApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\MYCOMP\source\repos\WebApp\WebApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\MYCOMP\source\repos\WebApp\WebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\MYCOMP\source\repos\WebApp\WebApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MYCOMP\source\repos\WebApp\WebApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MYCOMP\source\repos\WebApp\WebApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MYCOMP\source\repos\WebApp\WebApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MYCOMP\source\repos\WebApp\WebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\MYCOMP\source\repos\WebApp\WebApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\MYCOMP\source\repos\WebApp\WebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\MYCOMP\source\repos\WebApp\WebApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\MYCOMP\source\repos\WebApp\WebApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\MYCOMP\source\repos\WebApp\WebApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\MYCOMP\source\repos\WebApp\WebApp\obj\Debug\net6.0\WebApp.csproj.AssemblyReference.cache
+C:\Users\MYCOMP\source\repos\WebApp\WebApp\obj\Debug\net6.0\WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MYCOMP\source\repos\WebApp\WebApp\obj\Debug\net6.0\WebApp.AssemblyInfoInputs.cache
+C:\Users\MYCOMP\source\repos\WebApp\WebApp\obj\Debug\net6.0\WebApp.AssemblyInfo.cs
+C:\Users\MYCOMP\source\repos\WebApp\WebApp\obj\Debug\net6.0\WebApp.csproj.CoreCompileInputs.cache
+C:\Users\MYCOMP\source\repos\WebApp\WebApp\obj\Debug\net6.0\WebApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MYCOMP\source\repos\WebApp\WebApp\obj\Debug\net6.0\WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MYCOMP\source\repos\WebApp\WebApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\MYCOMP\source\repos\WebApp\WebApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\MYCOMP\source\repos\WebApp\WebApp\obj\Debug\net6.0\scopedcss\bundle\WebApp.styles.css
+C:\Users\MYCOMP\source\repos\WebApp\WebApp\obj\Debug\net6.0\WebApp.csproj.CopyComplete
+C:\Users\MYCOMP\source\repos\WebApp\WebApp\obj\Debug\net6.0\WebApp.dll
+C:\Users\MYCOMP\source\repos\WebApp\WebApp\obj\Debug\net6.0\refint\WebApp.dll
+C:\Users\MYCOMP\source\repos\WebApp\WebApp\obj\Debug\net6.0\WebApp.pdb
+C:\Users\MYCOMP\source\repos\WebApp\WebApp\obj\Debug\net6.0\WebApp.genruntimeconfig.cache
+C:\Users\MYCOMP\source\repos\WebApp\WebApp\obj\Debug\net6.0\ref\WebApp.dll
